@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 veha 2
+=======
+master
+>>>>>>> master
